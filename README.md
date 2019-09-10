@@ -1,5 +1,7 @@
 # AndroidJniBitmapOperations
 
+This is a fork of the original [AndroidDeveloperLB/AndroidJniBitmapOperations](https://github.com/AndroidDeveloperLB/AndroidJniBitmapOperations) project with the goal to provide updated build toolings and AAR artifacts.
+
 Allows to perform various simple operations on bitmaps via JNI , while also providing some protection against OOM using the native Java environment on Android
 
 Some of the operations are:
